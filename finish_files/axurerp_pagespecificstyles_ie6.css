@@ -3,13 +3,3 @@
     filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="finish_files/u0_normal.png");
 }
 
-* html .u2_mouseDown {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="finish_files/u2_mouseDown.png");
-}
-
-* html .u6_mouseDown {
-    background-image: none;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src="finish_files/u6_mouseDown.png");
-}
-

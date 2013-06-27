@@ -5,7 +5,6 @@ function (e) {
 
 });
 gv_vAlignTable['u1'] = 'center';document.getElementById('u2_img').tabIndex = 0;
-HookClick('u2', false);
 
 u2.style.cursor = 'pointer';
 $axure.eventManager.click('u2', function(e) {
@@ -28,7 +27,6 @@ if (true) {
 }
 });
 gv_vAlignTable['u5'] = 'center';document.getElementById('u6_img').tabIndex = 0;
-HookClick('u6', false);
 
 u6.style.cursor = 'pointer';
 $axure.eventManager.click('u6', function(e) {

@@ -11,7 +11,7 @@ $axure.eventManager.click('u3', function(e) {
 
 if (true) {
 
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('create.html');
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('Home.html');
 
 }
 });
@@ -22,7 +22,7 @@ $axure.eventManager.click('u5', function(e) {
 
 if (true) {
 
-	self.location.href=$axure.globalVariableProvider.getLinkUrl('Home.html');
+	self.location.href=$axure.globalVariableProvider.getLinkUrl('create.html');
 
 }
 });

@@ -23,7 +23,7 @@ div {
 }
 
 .u0_normal {
-    background-image: url('../social_files/6.png'); background-size: 100%;
+    background-image: url('../social_files/social.png'); background-size: 100%;
 }
 
 .u0_container {
@@ -31,7 +31,7 @@ div {
     left:0px;
     top:-20px;
     width:320px;
-    height:508px;
+    height:507px;
 }
 
 #u0_img {
@@ -39,7 +39,7 @@ div {
     left:0px;
     top:0px;
     width:320px;
-    height:508px;
+    height:507px;
 }
 
 .u1 {
@@ -131,7 +131,7 @@ div {
 .u6_container {
     position:absolute;
     left:12px;
-    top:426px;
+    top:425px;
     width:296px;
     height:48px;
 }

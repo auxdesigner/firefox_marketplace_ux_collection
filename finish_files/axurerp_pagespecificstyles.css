@@ -23,7 +23,7 @@ div {
 }
 
 .u0_normal {
-    background-image: url('../finish_files/4.png'); background-size: 100%;
+    background-image: url('../finish_files/appdetailfinish.png'); background-size: 100%;
 }
 
 .u0_container {
@@ -31,7 +31,7 @@ div {
     left:0px;
     top:-20px;
     width:320px;
-    height:1209px;
+    height:1208px;
 }
 
 #u0_img {
@@ -39,7 +39,7 @@ div {
     left:0px;
     top:0px;
     width:320px;
-    height:1209px;
+    height:1208px;
 }
 
 .u1 {
@@ -54,10 +54,6 @@ div {
     font-family:Arial;
     text-align:left;
     word-wrap:break-word;
-}
-
-.u2_mouseDown {
-    background-image: url('../finish_files/u2_mouseDown.png');
 }
 
 .u2_normal {
@@ -126,10 +122,6 @@ div {
     font-family:Arial;
     text-align:left;
     word-wrap:break-word;
-}
-
-.u6_mouseDown {
-    background-image: url('../finish_files/u6_mouseDown.png');
 }
 
 .u6_normal {

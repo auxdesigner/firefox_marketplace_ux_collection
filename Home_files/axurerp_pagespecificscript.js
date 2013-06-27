@@ -22,7 +22,7 @@ $axure.eventManager.click('u12', function(e) {
 
 if (true) {
 
-	SetPanelState('u2', 'pd1u2','none','',300,'swing','left',300);
+	SetPanelState('u2', 'pd1u2','none','',500,'swing','left',500);
 
 	SendToBack("u16");
 
@@ -59,7 +59,7 @@ $axure.eventManager.click('u8', function(e) {
 
 if (true) {
 
-	SetPanelState('u2', 'pd0u2','swing','right',300,'swing','right',300);
+	SetPanelState('u2', 'pd0u2','swing','right',500,'swing','right',500);
 
 	BringToFront("u16");
 

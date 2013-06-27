@@ -23,7 +23,7 @@ div {
 }
 
 .u0_normal {
-    background-image: url('../update_files/8.png'); background-size: 100%;
+    background-image: url('../update_files/editfinish.png'); background-size: 100%;
 }
 
 .u0_container {
@@ -56,9 +56,7 @@ div {
     word-wrap:break-word;
 }
 
-.u2_mouseDown {
-    background-image: url('../update_files/u2_mouseDown.png');
-}
+
 
 .u2_normal {
     background-image: url('../resources/images/transparent.gif');
@@ -128,9 +126,7 @@ div {
     word-wrap:break-word;
 }
 
-.u6_mouseDown {
-    background-image: url('../update_files/u6_mouseDown.png');
-}
+
 
 .u6_normal {
     background-image: url('../resources/images/transparent.gif');

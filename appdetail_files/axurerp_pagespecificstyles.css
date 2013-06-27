@@ -23,7 +23,7 @@ div {
 }
 
 .u0_normal {
-    background-image: url('../appdetail_files/2.png'); background-size: 100%;
+    background-image: url('../appdetail_files/appdetail.png'); background-size: 100%;
 }
 
 .u0_container {
@@ -31,7 +31,7 @@ div {
     left:0px;
     top:-20px;
     width:320px;
-    height:1207px;
+    height:1210px;
 }
 
 #u0_img {
@@ -39,13 +39,13 @@ div {
     left:0px;
     top:0px;
     width:320px;
-    height:1207px;
+    height:1210px;
 }
 
 .u1 {
     position:absolute;
     left:2px;
-    top:596px;
+    top:597px;
     width:316px;
     height:16px;
     ;
@@ -76,9 +76,9 @@ div {
 
 .u3_container {
     position:absolute;
-    left:0px;
-    top:49px;
-    width:57px;
+    left:5px;
+    top:5px;
+    width:37px;
     height:35px;
 }
 
@@ -86,7 +86,7 @@ div {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:63px;
+    width:43px;
     height:41px;
 }
 
@@ -94,7 +94,7 @@ div {
     position:absolute;
     left:2px;
     top:10px;
-    width:53px;
+    width:33px;
     height:16px;
     ;
     ;
@@ -110,9 +110,9 @@ div {
 
 .u5_container {
     position:absolute;
-    left:5px;
-    top:5px;
-    width:37px;
+    left:0px;
+    top:49px;
+    width:57px;
     height:35px;
 }
 
@@ -120,7 +120,7 @@ div {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:43px;
+    width:63px;
     height:41px;
 }
 
@@ -128,7 +128,7 @@ div {
     position:absolute;
     left:2px;
     top:10px;
-    width:33px;
+    width:53px;
     height:16px;
     ;
     ;
